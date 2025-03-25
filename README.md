@@ -23,7 +23,7 @@
 💬 **Ask me about:**
 - Data Science • Machine Learning • Time Series Forecasting • Deep Learning • NLP • Agentic AI • Cloud Deployments • Building Scalable AI Systems
 
-**📫 How to reach me:**  **dharunkrishnanagaraj@gmail.com**
+**📫 How to reach me:** [Gmail](mailto:dharunkrishnanagaraj@gmail.com)
 
 **📄 Know about my experiences** — [My Resume](https://drive.google.com/file/d/184y9mUiyn-k1VlQSgRipanMSFpl8yw0q/view?usp=drive_link)
 
@@ -31,12 +31,16 @@
 ⚡ **Fun fact:**
 - I sometimes talk to my own chatbot just to feel like Iron Man chatting with JARVIS. Still waiting on the suit upgrade though. 😄
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dharun-krishna-nagaraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dharun-krishna-nagaraj/" height="30" width="40" /></a>
 <a href="https://fb.com/tharun nagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharun nagaraj" height="30" width="40" /></a>
 <a href="https://instagram.com/dharun._.nagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharun._.nagaraj" height="30" width="40" /></a>
 </p>
+
+---
 
 ## 🔧 How I Use My Tools
 
