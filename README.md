@@ -3,7 +3,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=000000&width=600&lines=Hello!+I+am+a+Graduate+Student+at+UCONN;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
 
 ## 🚀 About Me
----
+
 <h3 align="center">A passionate learner building meaningful solutions with data and AI.</h3>
 
 🔭 **I’m currently working on **
@@ -30,7 +30,7 @@
 
 **📄 Know about my experiences** — [My Resume](https://drive.google.com/file/d/184y9mUiyn-k1VlQSgRipanMSFpl8yw0q/view?usp=drive_link)
 
----
+--
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +43,7 @@
 
 # 🔧 How I Use My Tools
 
----
+
 
 ### 💻 Programming Languages
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
