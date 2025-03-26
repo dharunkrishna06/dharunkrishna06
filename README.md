@@ -30,16 +30,12 @@
 
 **📄 Know about my experiences** — [My Resume](https://drive.google.com/file/d/184y9mUiyn-k1VlQSgRipanMSFpl8yw0q/view?usp=drive_link)
 
---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dharun-krishna-nagaraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dharun-krishna-nagaraj/" height="30" width="40" /></a>
 <a href="https://fb.com/tharun nagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharun nagaraj" height="30" width="40" /></a>
 <a href="https://instagram.com/dharun._.nagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharun._.nagaraj" height="30" width="40" /></a>
 </p>
-
----
 
 # 🔧 How I Use My Tools
 
