@@ -50,9 +50,15 @@ I'm a results-driven analytics professional with a passion for solving problems 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dharun-krishna-nagaraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dharun-krishna-nagaraj/" height="30" width="40" /></a>
-<a href="https://fb.com/tharun nagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharun nagaraj" height="30" width="40" /></a>
-<a href="https://instagram.com/dharun._.nagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharun._.nagaraj" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dharun-krishna-nagaraj/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Dharun Krishna Nagaraj" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/dharun._.nagaraj" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - Dharun" height="30" width="40" />
+  </a>
+  <a href="mailto:dharunkrishna06@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+  </a>
 </p>
 
 ---
