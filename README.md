@@ -17,7 +17,7 @@ I'm a results-driven analytics professional with a passion for solving problems 
 ---
 
 ### 📚 What I'm Learning:
-- Advanced SQL, Python, and Business Intelligence tools.
+- Machine Learning, Python, and Generative AI pipelines (LangChain, RAG, LLM fine-tuning).
 - Cloud platforms like AWS, GCP, and Databricks for scalable analytics.
 - Improving storytelling and presentation skills for data-driven strategies.
 
@@ -30,17 +30,23 @@ I'm a results-driven analytics professional with a passion for solving problems 
 
 ---
 
-👨‍💻 All of my projects are available at ["dsgaa"]("dsgaa")
+### 💬 Ask Me About:
+- Data Science • Machine Learning • Business Analytics  
+- AI Strategy • NLP • Forecasting • GenAI • Data Visualization  
+- Cloud Deployments • Real-time Pipelines • AI-driven Apps
 
-💬 **Ask me about:**
-- Data Science • Machine Learning • Time Series Forecasting • Deep Learning • NLP • Agentic AI • Cloud Deployments • Building Scalable AI Systems
+---
 
-⚡ **Fun fact:**
+### ⚡ Fun Fact:
 - I sometimes talk to my own chatbot just to feel like Iron Man chatting with JARVIS. Still waiting on the suit upgrade though. 😄
+
+---
 
 **📫 How to reach me:** [Gmail](mailto:dharunkrishnanagaraj@gmail.com)
 
 **📄 Know about my experiences** — [My Resume](https://drive.google.com/file/d/184y9mUiyn-k1VlQSgRipanMSFpl8yw0q/view?usp=drive_link)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,7 +55,9 @@ I'm a results-driven analytics professional with a passion for solving problems 
 <a href="https://instagram.com/dharun._.nagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dharun._.nagaraj" height="30" width="40" /></a>
 </p>
 
-# 🔧 How I Use My Tools
+---
+
+## 🔧 How I Use My Tools
 
 
 
