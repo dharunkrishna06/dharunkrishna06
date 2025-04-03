@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharun Krishna nagaraj</h1>
+<h1 align="center">Hi 👋, I'm Dharun Krishna Nagaraj</h1>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=000000&width=600&lines=Hello!+I+am+a+Graduate+Student+at+UCONN;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
 
