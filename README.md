@@ -48,18 +48,20 @@ I'm a results-driven analytics professional with a passion for solving problems 
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me:
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/dharun-krishna-nagaraj/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Dharun Krishna Nagaraj" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/dharun-krishna-nagaraj/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/dharun._.nagaraj" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - Dharun" height="30" width="40" />
+  <a href="https://instagram.com/dharun._.nagaraj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:dharunkrishna06@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+  <a href="mailto:dharunkrishna06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
 
 ---
 
