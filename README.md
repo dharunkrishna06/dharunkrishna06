@@ -2,21 +2,33 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=000000&width=600&lines=Hello!+I+am+a+Graduate+Student+at+UCONN;Welcome+to+my+Github+Page)](https://git.io/typing-svg)
 
-## 🚀 About Me
 
-<h3 align="center">A passionate learner building meaningful solutions with data and AI.</h3>
+### 📊 Data & Analytics Enthusiast | Turning Numbers into Insights
 
-🔭 **I’m currently working on **
-- Building intelligent agentic AI systems and refining AI-powered trading solutions.
+I'm a results-driven analytics professional with a passion for solving problems through data. Whether it's building dashboards, forecasting trends, analyzing business performance, or developing machine learning models — I love creating data-powered solutions that make a real impact.
 
-🌱**I’m currently learning:**
-- Agentic AI frameworks, Generative AI pipelines, and advanced cloud-based orchestration.**
+---
 
-👯 **I’m looking to collaborate on:**
-- Exciting projects in data science, AI, and anything that - - - blends tech with creativity.
+### 🔍 What I'm Working On:
+- End-to-end data projects involving analysis, visualization, and reporting.
+- Building interactive dashboards and reports for business decision-making.
+- Exploring advanced topics in data modeling, forecasting, and automation.
 
-🤝 **I’m looking for help with:**
-- Deploying scalable ML models and building real-time data pipelines.
+---
+
+### 📚 What I'm Learning:
+- Advanced SQL, Python, and Business Intelligence tools.
+- Cloud platforms like AWS, GCP, and Databricks for scalable analytics.
+- Improving storytelling and presentation skills for data-driven strategies.
+
+---
+
+### 🤝 I’m Open To:
+- Collaborating on data analytics, reporting, or strategy projects.
+- Working with teams that value insights, innovation, and impact.
+- Roles in Data Science, Data Analysis, Business Analytics, and Strategy.
+
+---
 
 👨‍💻 All of my projects are available at ["dsgaa"]("dsgaa")
 
