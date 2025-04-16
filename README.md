@@ -5,46 +5,33 @@
 
 ### 📊 Data & Analytics Enthusiast | Turning Numbers into Insights
 
-I'm a results-driven analytics professional with a passion for solving problems through data. Whether it's building dashboards, forecasting trends, analyzing business performance, or developing machine learning models — I love creating data-powered solutions that make a real impact.
+I'm a results-driven analytics professional with a passion for solving business problems through data. Whether it's building dashboards, uncovering trends, tracking KPIs, or transforming raw data into strategic insights — I love creating data-powered solutions that drive impact.
 
 ---
 
 ### 🔍 What I'm Working On:
-- End-to-end data projects involving analysis, visualization, and reporting.
-- Building interactive dashboards and reports for business decision-making.
-- Exploring advanced topics in data modeling, forecasting, and automation.
-
----
-
-### 📚 What I'm Learning:
-- Machine Learning, Python, and Generative AI pipelines (LangChain, RAG, LLM fine-tuning).
-- Cloud platforms like AWS, GCP, and Databricks for scalable analytics.
-- Improving storytelling and presentation skills for data-driven strategies.
+- End-to-end analytics projects involving data wrangling, reporting, and stakeholder-ready insights.
+- Building interactive dashboards and self-serve reports for business teams.
+- Analyzing performance metrics to support data-informed decision-making.
 
 ---
 
 ### 🤝 I’m Open To:
 - Collaborating on data analytics, reporting, or strategy projects.
 - Working with teams that value insights, innovation, and impact.
-- Roles in Data Science, Data Analysis, Business Analytics, and Strategy.
+- Roles in Business Intelligence, Data Analysis, Product Analytics, and Strategy.
 
 ---
 
 ### 💬 Ask Me About:
-- Data Science • Machine Learning • Business Analytics  
-- AI Strategy • NLP • Forecasting • GenAI • Data Visualization  
-- Cloud Deployments • Real-time Pipelines • AI-driven Apps
+- SQL • Tableau • Business Analytics • A/B Testing
+- BI Dashboards • Excel Automation • Root Cause Analysis • Forecasting  
+- Cloud Analytics • ETL Pipelines • Data Storytelling
 
 ---
 
 ### ⚡ Fun Fact:
 - I sometimes talk to my own chatbot just to feel like Iron Man chatting with JARVIS. Still waiting on the suit upgrade though. 😄
-
----
-
-**📫 How to reach me:** [Gmail](mailto:dharunkrishnanagaraj@gmail.com)
-
-**📄 Know about my experiences** — [My Resume](https://drive.google.com/file/d/184y9mUiyn-k1VlQSgRipanMSFpl8yw0q/view?usp=drive_link)
 
 ---
 
@@ -57,7 +44,7 @@ I'm a results-driven analytics professional with a passion for solving problems 
   <a href="https://instagram.com/dharun._.nagaraj" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:dharunkrishna06@gmail.com" target="_blank">
+  <a href="mailto:dharunknagaraj@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
